@@ -1,0 +1,59 @@
+body {
+    background:darkgrey;
+}
+
+#wrapper {
+    padding-left: 250px;
+    padding-top: 40px;
+
+}
+
+#maintable {
+    background:black;
+    border-radius: 15px;
+    overflow:hidden;
+    height:260px;
+    width:55%;
+}
+
+tr td {
+   vertical-align: top;
+}
+
+#rowheader {
+    height:5px;
+    color:#f1f000;
+    text-align:center;
+}
+
+#iframewrapper{
+    padding-left: 65px;
+}
+
+#pictureframe {
+    border:1px solid orange;
+}
+
+#carslist li button{
+     background-color:transparent;
+     padding-left:0px;
+     border:none;
+     cursor:pointer;
+     color:#ffffff;
+     font-family:arial;
+     font-size:20px;
+     font-style:italic;
+     text-decoration:none;
+ }
+
+#carslist li button:hover{
+    background-color:transparent;
+    padding-left:0px;
+    border:none;
+    cursor:pointer;
+    color:red;
+    font-family:arial;
+    font-size:21px;
+    font-style:italic;
+    text-decoration:none;
+}
