@@ -32,6 +32,10 @@ tr td {
 
 #pictureframe {
     border:1px solid orange;
+    left: 0;
+    width: 220px;
+    top: 0;
+    height: 150px;
 }
 
 #carslist li button{
