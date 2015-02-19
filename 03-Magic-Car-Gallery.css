@@ -1,5 +1,5 @@
 body {
-    background:darkgrey;
+    background:#BDBDBD;
 }
 
 #wrapper {
@@ -8,9 +8,9 @@ body {
 
 }
 
-#maintable {
+#main-table {
     background:black;
-    border-radius: 15px;
+    border-radius:15px;
     overflow:hidden;
     height:260px;
     width:55%;
@@ -36,6 +36,8 @@ tr td {
     width: 220px;
     top: 0;
     height: 150px;
+    margin-height:0;
+    margin-width:0;
 }
 
 #carslist li button{
