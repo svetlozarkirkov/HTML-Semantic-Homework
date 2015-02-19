@@ -1,0 +1,74 @@
+body {
+    background:pink;
+}
+
+#title-header {
+    text-align: center;
+}
+
+#pic {
+    background:white;
+}
+
+#completion-meter, #username-txt {
+    width:200px;
+    margin-left: 12%;
+}
+
+#profile-fig-cap {
+
+}
+
+#name-pic {
+    line-height: 0;
+    float:left;
+    margin-left:40px;
+    margin-top:3px;
+    width:310px;
+}
+
+.audio-black-box {
+    background:black;
+    width:369px;
+    height:214px;
+    margin-top:0;
+    margin-bottom:4px;
+}
+
+.audio-controls {
+    width:370px;
+}
+
+#separate-audio {
+    width:350px;
+    margin-top:70px;
+    margin-left:10px;
+}
+
+#audio-files {
+    float:left;
+    /*border:1px solid black;*/
+}
+
+#audio-txt {
+    margin-top: 9px;
+    height:12px;
+}
+
+#video {
+    line-height:0;
+    float:left;
+    margin-top:2px;
+
+}
+
+#video-txt {
+    margin-left:15px;
+}
+
+#vid-clip {
+    width:550px;
+    height:310px;
+    margin-top:1px;
+    margin-left:15px;
+}
