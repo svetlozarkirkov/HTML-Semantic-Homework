@@ -21,7 +21,7 @@ body {
 }
 
 #search {
-    height:0px;
+    
 }
 
 #search input[type="text"] {
@@ -53,6 +53,7 @@ a {
 #left-links {
     margin-left:45px;
     margin-top:80px;
+    float:left;
 }
 
 #left-links * {
