@@ -1,0 +1,139 @@
+body {
+
+}
+
+#page-heading {
+    font-size:30px;
+    margin-left:150px;
+    margin-top:20px;
+}
+
+#top {
+
+}
+
+#top-menu *{
+    float:left;
+    margin-left:40px;
+    margin-top:30px;
+    color:darkgray;
+    font-size:14px;
+}
+
+#search {
+    height:0px;
+}
+
+#search input[type="text"] {
+    background: url(../../images/search-icon.png) no-repeat 175px 7px #fcfcfc;
+    border: 1px solid #d1d1d1;
+    font: 14px Calibri;
+    color: #bebebe;
+    width: 150px;
+    padding: 7px 15px 6px 35px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    text-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15) inset;
+    -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15) inset;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15) inset;
+    margin-top:50px;
+    margin-left:650px;
+}
+
+#search input[type="text"]:focus {
+
+}
+
+a {
+    text-decoration:none;
+}
+
+#left-links {
+    margin-left:45px;
+    margin-top:80px;
+}
+
+#left-links * {
+    margin-top:10px;
+    font-family:calibri, helvetica, arial;
+    color:lightskyblue;
+}
+
+#hr-top {
+    margin-left:40px;
+}
+
+#hr-left {
+    margin-left:10px;
+}
+
+#main-content {
+}
+
+.article-section {
+    margin: 20px -240px 0 100px;
+    width:400px;
+    float:left;
+}
+
+.sectionHeader {
+    font-size:22px;
+    font-weight:bold;
+    font-family:calibri, helvetica, arial;
+    padding-bottom: 10px;
+    padding-top:25px;
+}
+
+.sectionArticle {
+    font-family:calibri, helvetica, arial;
+}
+
+.sectionFooter {
+    font-family:calibri, helvetica, arial;
+    color:blue;
+    padding-top:30px;
+}
+
+#left {
+    width:290px;
+    float:left;
+}
+
+#right {
+    width:300px;
+    float:left;
+    margin-left:400px;
+    margin-top:50px;
+}
+
+#lang {
+    color:darkgrey;
+}
+
+#lang-heading {
+    letter-spacing: 0.1px;
+    font-family:calibri, helvetica, arial;
+    margin-bottom:2px;
+}
+
+#select-lang-box {
+    margin-top:5px;
+}
+
+#first-line {
+    margin-bottom: 2px;
+}
+
+#blog-roll {
+    font-family:calibri, helvetica, arial;
+    font-size:18px;
+    letter-spacing: 2px;
+    margin-top:50px;
+    margin-bottom:1px;
+}
+
+#second-line {
+    margin-top:2px;
+}
